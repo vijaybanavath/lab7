@@ -1,0 +1,8 @@
+Name: Ordinary Portland Cement
+Packing Type: SackBag
+Cost: 80.9
+
+Name: Rapid Pozzolana Cement
+Packing Type: SackBag
+Cost: 78.5
+
